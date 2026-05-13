@@ -1,8 +1,8 @@
-package com.example.taskmanager.service;
+package org.example.taskmanager.service;
 
 import org.example.taskmanager.dto.TaskRequest;
 import org.example.taskmanager.entity.Task;
-import com.example.taskmanager.repository.TaskRepository;
+import org.example.taskmanager.repository.TaskRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
